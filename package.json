@@ -1,0 +1,11 @@
+{
+  "name": "tugasdev",
+  "version": "0.0.1",
+  "description": "Program Ektrakulikuler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Al Fariqi (ahmad.alfariqi007@gmail.com)",
+  "license": "MIT"
+}
